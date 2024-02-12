@@ -1,0 +1,161 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "MergingTwoArray",
+            "request": "launch",
+            "mainClass": "Array.MergingTwoArray",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "MissingElement",
+            "request": "launch",
+            "mainClass": "Array.MissingElement",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "Algorithms.BubbleSort",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "ArrayAreEqualOrNot",
+            "request": "launch",
+            "mainClass": "Array.ArrayAreEqualOrNot",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "MergeTwoArrays",
+            "request": "launch",
+            "mainClass": "Array.MergeTwoArrays",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "Afsar",
+            "request": "launch",
+            "mainClass": "Array.Afsar",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoVariablesUsingWithoutThirdVariable",
+            "request": "launch",
+            "mainClass": "Array.SwapTwoVariablesUsingWithoutThirdVariable",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "SwapTwoNumberUsingThirdVariable",
+            "request": "launch",
+            "mainClass": "Array.SwapTwoNumberUsingThirdVariable",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "MaxValue",
+            "request": "launch",
+            "mainClass": "Array.MaxValue",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "MinElementByMethod",
+            "request": "launch",
+            "mainClass": "Array.MinElementByMethod",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "MinElement",
+            "request": "launch",
+            "mainClass": "Array.MinElement",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ProductOfArray",
+            "request": "launch",
+            "mainClass": "Array.ProductOfArray",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "SearchingOfAnElement",
+            "request": "launch",
+            "mainClass": "Array.SearchingOfAnElement",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "SumOfArray",
+            "request": "launch",
+            "mainClass": "Array.SumOfArray",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "SumOfEvenElement",
+            "request": "launch",
+            "mainClass": "Array.SumOfEvenElement",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "SumOfEvenIndex",
+            "request": "launch",
+            "mainClass": "Array.SumOfEvenIndex",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "Array.array1",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "array2",
+            "request": "launch",
+            "mainClass": "Array.array2",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "array3",
+            "request": "launch",
+            "mainClass": "Array.array3",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "array4",
+            "request": "launch",
+            "mainClass": "Array.array4",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "array5",
+            "request": "launch",
+            "mainClass": "Array.array5",
+            "projectName": "Java_FSD7_fcac67a1"
+        }
+    ]
+}
