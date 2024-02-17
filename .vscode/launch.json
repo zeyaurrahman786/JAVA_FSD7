@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SubArrayWithSum",
+            "request": "launch",
+            "mainClass": "Array.SubArrayWithSum",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "LeftRotateArrayByKthTerms",
+            "request": "launch",
+            "mainClass": "Array.LeftRotateArrayByKthTerms",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
             "name": "MergingTwoArray",
             "request": "launch",
             "mainClass": "Array.MergingTwoArray",
