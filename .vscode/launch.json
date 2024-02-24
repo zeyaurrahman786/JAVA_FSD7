@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "MatrixMultiplication",
+            "request": "launch",
+            "mainClass": "Two_D_Array.MatrixMultiplication",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "SubtractTwoMatrix",
+            "request": "launch",
+            "mainClass": "Two_D_Array.SubtractTwoMatrix",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "AddTwoMatrix",
+            "request": "launch",
+            "mainClass": "Two_D_Array.AddTwoMatrix",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "ArrayInput",
+            "request": "launch",
+            "mainClass": "Two_D_Array.ArrayInput",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
             "name": "SubArrayWithSum",
             "request": "launch",
             "mainClass": "Array.SubArrayWithSum",

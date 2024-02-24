@@ -20,8 +20,8 @@ public class PairSum {
         System.out.println("Enter the key value : ");
         int key = sc.nextInt();
         int sum = 0;
-        for(int i=0;i<size;i++){
-            
+        for (int i = 0; i < size; i++) {
+
         }
         sc.close();
     }
