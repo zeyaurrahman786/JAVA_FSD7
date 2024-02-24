@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Five_Example",
+            "request": "launch",
+            "mainClass": "Oops.Five_Example",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "Four_Calculator",
+            "request": "launch",
+            "mainClass": "Oops.Four_Calculator",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "Three_Student",
+            "request": "launch",
+            "mainClass": "Oops.Three_Student",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "Two_dog",
+            "request": "launch",
+            "mainClass": "Oops.Two_dog",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
+            "name": "animal",
+            "request": "launch",
+            "mainClass": "Oops.animal",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
             "name": "MatrixMultiplication",
             "request": "launch",
             "mainClass": "Two_D_Array.MatrixMultiplication",
