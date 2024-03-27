@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "Palindrome",
+            "projectName": "Java_FSD7_fcac67a1"
+        },
+        {
+            "type": "java",
             "name": "Five_Example",
             "request": "launch",
             "mainClass": "Oops.Five_Example",

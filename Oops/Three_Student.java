@@ -19,7 +19,7 @@ class Student{
         System.out.println("Name is :- "+name);
         System.out.println("Branch is :- "+branch);
         System.out.println("Enrollment is :- "+enrollment);
-        // System.out.println("Average is :- "+s.average);
+        System.out.println(s.average);
     }
 }
 
