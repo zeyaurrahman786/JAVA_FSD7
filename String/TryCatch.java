@@ -4,12 +4,14 @@ public class TryCatch
     {
         try 
         {
-            int a = 10 / 0;
+            // int a = 10 / 0;
+            String str = "Java";
+            int i = Integer.parseInt(str);
         } 
         catch (Exception e) 
         {
             System.out.println(e);
         }
-        System.out.println("This code has been Executed");
+        System.out.println("This code Executed");
     }
 }
