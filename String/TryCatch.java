@@ -8,10 +8,25 @@ public class TryCatch
             String str = "Java";
             int i = Integer.parseInt(str);
         } 
+        catch (ArithmeticException e)
+        {
+            System.out.println("Arithmetic");
+        }
+
+        catch (NullPointerException e)
+        {
+            System.out.println("NullPonterException");
+        }
+
+        catch (ArrayIndexOutOfBoundsException e)
+        {
+            System.out.println("ArrayIndexOutOfBonds");
+        }
+
         catch (Exception e) 
         {
             System.out.println(e);
         }
-        System.out.println("This code Executed");
+        // System.out.println("This code Executed");
     }
 }

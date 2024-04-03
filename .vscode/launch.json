@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TryCatch2",
+      "request": "launch",
+      "mainClass": "TryCatch2",
+      "projectName": "Java_FSD7_fcac67a1"
+    },
+    {
+      "type": "java",
       "name": "TryCatch",
       "request": "launch",
       "mainClass": "TryCatch",
