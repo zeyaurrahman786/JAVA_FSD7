@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "TryCatch",
+      "request": "launch",
+      "mainClass": "TryCatch",
+      "projectName": "Java_FSD7_fcac67a1"
+    },
+    {
+      "type": "java",
       "name": "Palindrome",
       "request": "launch",
       "mainClass": "Palindrome",
