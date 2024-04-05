@@ -1,6 +1,6 @@
 public class Multithreading extends Thread{
     public void run() {
-        System.out.println();
+        System.out.println("Thread is running");
     }
     for(int i=1, i<5, i++){
         try {

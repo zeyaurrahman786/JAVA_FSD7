@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Multithreading",
+      "request": "launch",
+      "mainClass": "Multithreading",
+      "projectName": "Java_FSD7_fcac67a1"
+    },
+    {
+      "type": "java",
       "name": "TryCatch2",
       "request": "launch",
       "mainClass": "TryCatch2",
